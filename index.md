@@ -41,20 +41,18 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # Programmazione di Applicazioni Data Intensive (A.A. 2016/2017)
 
 ## Laurea in Ingegneria e Scienze Informatiche
-
 ## Dipartimento di Informatica - Scienza e Ingegneria, sede di Cesena
-
 ## Università degli Studi di Bologna
 
->>Prof. Gianluca Moro 
->>Prof. Giacomo Domeniconi
-DISI, sede di Cesena - Università di Bologna
-via Venezia 52, 47521 Cesena (FC)
-Ricevimento in Apice (via Venezia): martedì 16.30 - 18.30
+### >>Prof. Gianluca Moro 
+### >>Prof. Giacomo Domeniconi
+### DISI, sede di Cesena - Università di Bologna
+### via Venezia 52, 47521 Cesena (FC)
+### Ricevimento in Apice (via Venezia): martedì 16.30 - 18.30
 
->>Form di registrazione al corso
+### >>Form di registrazione al corso
 
->>Avvisi
+### >>Avvisi
 
 
 # MATERIALE	DESCRIZIONE	URL
